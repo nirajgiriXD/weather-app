@@ -1,1 +1,3 @@
-# weather_app
+# Weather App
+
+A simple weather app build using flutter.
